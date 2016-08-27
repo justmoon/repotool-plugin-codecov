@@ -1,0 +1,28 @@
+{
+  "name": "repotool-plugin-codecov",
+  "version": "0.0.0",
+  "description": "Automatically set up code coverage reporting via Codecov.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justmoon/repotool-plugin-codecov.git"
+  },
+  "keywords": [
+    "code",
+    "coverage",
+    "codecov",
+    "repotool"
+  ],
+  "author": "Stefan Thomas <justmoon@members.fsf.org>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justmoon/repotool-plugin-codecov/issues"
+  },
+  "homepage": "https://github.com/justmoon/repotool-plugin-codecov#readme",
+  "dependencies": {
+    "lodash": "^4.15.0"
+  }
+}
